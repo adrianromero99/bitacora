@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Bitacora del proyecto
 
-You can use the [editor on GitHub](https://github.com/adrianromero99/bitacora/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Checkpoint 1
+Durante las primeras semanas de la cursada, y aún antes de tener el enunciado nos reunimos para definir la modalidad de trabajo que ibamos a adoptar. Definimos utilizar Trello como tablero de tareas, un archivo de google sheets para manejar las historias y los puntos acumulados y recopilamos links e información util para el proyecto. 
+Una vez con el enunciado definimos utilizar primariamente python y fastaapi para los servicios backend, dejando el servicio de cobros con javascript node.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para este checkpoint nos propusimos realizar las siguientes historias de usuarios (solo backend):
 
-### Markdown
+* Registro de usuarios
+* Login de usuarios con usuario y contraseña
+* Login de administradores
+* Búsquedas por género
+* Búsquedas por artista
+* Creación de canción
+* Creación de album
+* Listado de álbumes
+* Listar usuarios del sistema
+* Listado de contenido
+* Visualización de contenido
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nos propusimos tener los servicios deployados en heroku y con los endpoints documentados. No arrancamos el front de ninguna de las secciones para este punto.
+Consideramos que llegamos satisfactoriamente a cumplir con lo que nos habíamos propuesto para esta entrega.
 
-```markdown
-Syntax highlighted code block
+### Checkpoint 2
 
-# Header 1
-## Header 2
-### Header 3
+Para el checkpoint 2 empezamos a desarrollar el frontend tanto de la aplicación móvil como del backoffice web. Priorizamos tener las contrapartes del front para los desarrollos del checkpoint 1.
 
-- Bulleted
-- List
+Además agregamos los siguientes 
+* Edición de perfil
+* Visualización de perfil propio
+* Home
+* Visualizar perfil de usuario
+* Reproduccion de cancion
 
-1. Numbered
-2. List
+En este punto empezamos a tener problemas. Los desarrollos de front end nos empezaron a llevar más tiempo de lo que esperabamos y por lo tanto no pudimos llegar a tiempo a terminar formalmente (aunque sí inicialmente) con las historias que agregamos para este checkpoint y algunas referidas a la aplicación móvil.
 
-**Bold** and _Italic_ and `Code` text
+### Checkpoint 3
+Para este checkpoint nos propusimos terminar las historias pendientes del checkpoint 2 y arrancar con todo lo correspondiente a:
 
-[Link](url) and ![Image](src)
-```
+* Chat de usuarios
+* Cobros y transacciones
+* Métricas
+* Puntuacion y comentarios
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Nos encontramos con problemas varios en este momento:
+* Deuda tecnica pasada
+* Examenes, trabajos practicos de otras materias
+* Retrasos en los desarrollos del front end
 
-### Jekyll Themes
+### Checkpoint 4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrianromero99/bitacora/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Para este checkpoint nos quedó redondear los puntos anteriores y en particular finalizar el servicio de cobros que teníamos retrasado. Le dedicamos muy intensamente a terminar todos los puntos que nos fueron quedando en el camino. Además agregamos la documentación faltante a los proyectos.
 
-### Support or Contact
+Algunos de los problemas que nos encontramos en este periodo:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Integracion de los trabajos
+* Cansancio, largas sesiones de codeo y documentacion
