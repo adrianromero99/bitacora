@@ -37,6 +37,8 @@ Además agregamos los siguientes
 En este punto empezamos a tener problemas. Los desarrollos de front end nos empezaron a llevar más tiempo de lo que esperabamos y por lo tanto no pudimos llegar a tiempo a terminar formalmente (aunque sí inicialmente) con las historias que agregamos para este checkpoint y algunas referidas a la aplicación móvil.
 
 ### Checkpoint 3
+Para la eleccion de materias optativas decidimos tomar varias de las que daban pocos puntos dado que las otras consideramos que nos llevarían más tiempo del que podíamos dedicarle.
+
 Para este checkpoint nos propusimos terminar las historias pendientes del checkpoint 2 y arrancar con todo lo correspondiente a:
 
 * Chat de usuarios
